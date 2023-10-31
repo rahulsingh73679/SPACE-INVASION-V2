@@ -1,6 +1,6 @@
 Alien Invasion
 
-PLAY RIGHT NOW!
+PLAY RIGHT NOW!!
 ==============
 
 http://rahulsingh73679.github.io/SPACE-INVASION-V2/
