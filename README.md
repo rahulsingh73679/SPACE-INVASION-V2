@@ -1,4 +1,4 @@
-Alien Invasion
+Alien Invasion Game
 
 PLAY RIGHT NOW!
 ==============
